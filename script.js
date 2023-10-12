@@ -1,9 +1,9 @@
 const player = [
-    {name:'Lucas' , wins: 4},
-    {name:'Matt' , wins: 4},
-    {name: 'Nick', wins: 2},
-    {name:'Brett' , wins: 4},
-    {name: 'Dylan' , wins: 4},
+    {name:'Lucas' , wins: 0},
+    {name:'Matt' , wins: 0},
+    {name: 'Nick', wins: 0},
+    {name:'Brett' , wins: 0},
+    {name: 'Dylan' , wins: 0},
     {name: 'Lou', wins: 0}
   ];
   
